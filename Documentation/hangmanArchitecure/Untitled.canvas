@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"37f55c41c0485899","type":"text","text":"# Hangman","x":-160,"y":-120,"width":250,"height":60,"color":"4"},
+		{"id":"695edd8207db2677","x":-235,"y":280,"width":400,"height":400,"color":"1","type":"file","file":"print_board.md"}
+	],
+	"edges":[
+		{"id":"0883a99253e7c3c2","fromNode":"37f55c41c0485899","fromSide":"bottom","toNode":"695edd8207db2677","toSide":"top"}
+	]
+}
